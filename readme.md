@@ -1,4 +1,4 @@
-This is a project of gene sequence extractor of hg 19 and hg38 by python.
+This is a project of gene sequence extractor of `hg19` and `hg38` by python.
 
 # Data download and unzip
 
