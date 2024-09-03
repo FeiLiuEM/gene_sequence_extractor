@@ -19,6 +19,7 @@ mkdir hg19
 `wget --timestamping 'ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/chromosomes/*'
 gunzip *.fa.gz
 ```
+We recommend `hg38`.
 
 # Data pretreat
 
